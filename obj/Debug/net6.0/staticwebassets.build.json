@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "4+prMHWav6hPxRb4a/R9mLCnItmCUR+imPIrLlYXako=",
+  "Source": "MovieRestfullAPI",
+  "BasePath": "_content/MovieRestfullAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MovieRestfullAPI\\wwwroot",
+      "Source": "MovieRestfullAPI",
+      "ContentRoot": "F:\\Yovi\\explore\\Test .NET\\MovieRestfullAPI\\wwwroot\\",
+      "BasePath": "_content/MovieRestfullAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "F:\\Yovi\\explore\\Test .NET\\MovieRestfullAPI\\wwwroot\\Upload\\123-pastedimage1660043592063v1.png",
+      "SourceId": "MovieRestfullAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Yovi\\explore\\Test .NET\\MovieRestfullAPI\\wwwroot\\",
+      "BasePath": "_content/MovieRestfullAPI",
+      "RelativePath": "Upload/123-pastedimage1660043592063v1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\123-pastedimage1660043592063v1.png"
+    },
+    {
+      "Identity": "F:\\Yovi\\explore\\Test .NET\\MovieRestfullAPI\\wwwroot\\Upload\\The Nun 2-Professional Photos.jpg",
+      "SourceId": "MovieRestfullAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Yovi\\explore\\Test .NET\\MovieRestfullAPI\\wwwroot\\",
+      "BasePath": "_content/MovieRestfullAPI",
+      "RelativePath": "Upload/The Nun 2-Professional Photos.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\The Nun 2-Professional Photos.jpg"
+    },
+    {
+      "Identity": "F:\\Yovi\\explore\\Test .NET\\MovieRestfullAPI\\wwwroot\\Upload\\The Nun-pastedimage1660043592063v1.png",
+      "SourceId": "MovieRestfullAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Yovi\\explore\\Test .NET\\MovieRestfullAPI\\wwwroot\\",
+      "BasePath": "_content/MovieRestfullAPI",
+      "RelativePath": "Upload/The Nun-pastedimage1660043592063v1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\The Nun-pastedimage1660043592063v1.png"
+    },
+    {
+      "Identity": "F:\\Yovi\\explore\\Test .NET\\MovieRestfullAPI\\wwwroot\\Upload\\The Nun-Professional Photos.jpg",
+      "SourceId": "MovieRestfullAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Yovi\\explore\\Test .NET\\MovieRestfullAPI\\wwwroot\\",
+      "BasePath": "_content/MovieRestfullAPI",
+      "RelativePath": "Upload/The Nun-Professional Photos.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\The Nun-Professional Photos.jpg"
+    }
+  ]
+}
